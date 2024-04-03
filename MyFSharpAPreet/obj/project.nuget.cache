@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AME3AV0ZBGU/j8QMzAZKbdXRdtOvyY6M2aRirNtFdl5vM/I9wVCy+NwRcZ4IaMCre+hkjaO5oD7hZXjvqkGsLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\happy\\OneDrive\\Desktop\\Lab2paradigms\\MyFSharpAPreet\\MyFSharpAPreet.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\happy\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
